@@ -1,2 +1,5 @@
-# css-practise
-project purpose is to get batter at css.
+## css-practise
+
+Project purpose is to get better at CSS.
+
+________________________________________________________________________________
